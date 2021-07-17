@@ -1,32 +1,34 @@
 
 
+// Assign object:questions and answers to array
+let questions = [
+    {
+        title: "Commonly used data types DO NOT include:",
+        choices: ["strings, booleans", "alerts", "numbers"],
+        answer: "alerts"
+    },
 
-"Commonly used data types DO NOT include:"
-strings
-booleans
-alerts
-numbers
+    {
+        title: "The condition in an if/else statement is enclosed within:",
+        choices: ["quotes", "curly brackets", "parenthesis", "square brackets"],
+        answer: "parenthesis"
+    }
+    
+    {
+        title: "Arrays in JavaScript can be used to store ___.",
+        choices: ["numbers and strings", "other arrays", "booleans", "all of the above"],
+        answer: "all of the above"
+    }
 
-"The condition in an if/else statement is enclosed within:"
-quotes
-curly brackets
-parenthesis
-square brackets
+    {
+        title: "String values must be enclosed within ___ when being assigned to variables.",
+        choices: ["commas", "curly brackets", "quotes", "parenthesis"],
+        answer: "console log"
+    }
 
-"Arrays in JavaScript can be used to store ___."
-numbers and strings
-other arrays
-booleans
-all of the above
-
-"String values must be enclosed within ___ when being assigned to variables."
-commas
-curly brackets
-quotes
-parenthesis
-
-"A very useful tool used during development and debugging for printing content to the debugger is:"
-JavaScript
-terminal / bash
-for loops
-consol log
+  {
+        title: "A very useful tool used during development and debugging for printing content to the debugger is:",
+        choices: ["JavaScript", "terminal/bash", "for loops", "consol log"],
+        answer: "console log"
+    }
+]
