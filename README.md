@@ -25,3 +25,8 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
+Link for deployed webpage of My-Portfolio
+https://azs6189.github.io/Code-Quiz/
+
+Screenshot deployed webpage for My-Portfolio
+![My-Portfolio](images/code-quiz.png)
